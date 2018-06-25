@@ -20,6 +20,6 @@ script:
 deploy:
   provider: heroku
   api-key: 
-    secure: $LIVE_KEY
+    secure: LIVE_KEY
   app: testadoevopswilldvl
 
