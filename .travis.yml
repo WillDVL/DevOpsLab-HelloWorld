@@ -20,6 +20,6 @@ script:
 deploy:
   provider: heroku
   api-key: 
-    secure: WILLDVL_KEY
+    secure: $WILLDVL_KEY
   app: aula5willdvldevops
 
